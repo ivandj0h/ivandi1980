@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ivandjoh</h1>
-<h3 align="center">A passionate software development from Indonesia</h3>
+<h5 align="center">A passionate software development from Indonesia</h5>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivandi1980" alt="ivandi1980" style="width:500px;" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivandi1980" alt="ivandi1980" style="width:600px;" /></a> </p>
 
-<h3 align="center">
+<h5 align="center">
   
 🌱 I’m currently learning **golang**
   
@@ -12,7 +12,7 @@
 📫 How to reach me **ivandi.djoh@gmail.com**
   
 ⚡ Fun fact **I think i'm funny**
-</p>
+</h5>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
