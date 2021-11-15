@@ -13,7 +13,7 @@
   
 📫 How to reach me 
 
-**ivandi.djoh@gmail.com**
+**email@ivandjoh.online**
   
 ⚡ Fun fact 
 
