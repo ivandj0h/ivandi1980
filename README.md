@@ -23,7 +23,6 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Angular" width="26px" src="https://user-images.githubusercontent.com/19311256/89726915-bacbcc80-da3d-11ea-8541-c42ffcb3b7d0.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://user-images.githubusercontent.com/19311256/89726916-be5f5380-da3d-11ea-9fa1-108cc23b3945.png" />
 <img align="left" alt="Jquery" width="26px" src="https://user-images.githubusercontent.com/19311256/89726918-c28b7100-da3d-11ea-9e0a-b37f1e2527ea.png" />
 <img align="left" alt="Spring tool suite" width="26px" src="https://user-images.githubusercontent.com/19311256/89726919-c61ef800-da3d-11ea-868d-b33d9955dfcc.png" />
