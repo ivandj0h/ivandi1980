@@ -8,8 +8,8 @@
 <br>
 
 ## I'm Sr. Software Engineer and Love to Teach!
-- 🔭 I’m currently working on PT.ABC a member of Marubeni Corp!
-- 🌱 I’m currently learning JAVA technologies 🤣
+- 🔭 I’m currently working on ABC a member of Marubeni Corp!
+- 🌱 I’m currently Hands On JAVA technologies 🤣
 - 👯 I’m looking to collaborate with other Software Engineers
 - 🥅 MY Goals: to be a better Software Engineer
 - ⚡ Hobbies: Video Game like Call of duty and Battlefield
