@@ -7,7 +7,7 @@
 <a href="https://github.com/ivandi1980"><img src="https://img.shields.io/github/watchers/ivandi1980/ivandi1980?style=flat"/></a>
 <br>
 
-## I'm Sr. Software Engineer and Love to Teach!
+## I'm Sr.Software Engineer & Loved to Learn new things!
 - 🔭 I’m currently working on ABC a member of Marubeni Corp!
 - 🌱 I’m currently Hands On JAVA technologies 🤣
 - 👯 I’m looking to collaborate with other Software Engineers
