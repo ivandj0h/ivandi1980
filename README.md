@@ -1,4 +1,4 @@
-### Hi there, I'm Ivandjoh - aka ID1980 👋
+### Hi there, I'm IvanDjoh 👋
 
 ![](https://komarev.com/ghpvc/?username=scbushan05&color=blue&style=flat)
 <a href="https://github.com/ivandi1980"><img src="https://img.shields.io/github/stars/ivandi1980?style=flat"/></a>
