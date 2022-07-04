@@ -8,7 +8,7 @@
 <br>
 
 ## I'm Software Engineer & Loved to Learn new things!
-- 🔭 I’m currently working on ABC a member of Marubeni Corp!
+- 🔭 I’m currently working on ABC, a member of Marubeni Corp!
 - 🌱 I’m currently Hands On JAVA technologies 🤣
 - 👯 I’m looking to collaborate with other Software Engineers
 - 🥅 MY Goals: to be a better Software Engineer
