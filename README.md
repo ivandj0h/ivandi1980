@@ -7,9 +7,9 @@
 <a href="https://github.com/ivandi1980"><img src="https://img.shields.io/github/watchers/ivandi1980/ivandi1980?style=flat"/></a>
 <br>
 
-## I'm Software Engineer & Loved to Learn new things!
-- 🔭 I’m currently on ABC as Sr.Software Engineer, ABC is a member of Marubeni Corp!
-- 🌱 I’m currently Hands On JAVA & GO Programming Languages 🤣
+## I'm Sr.Software Engineer & Loved to Learn new things!
+- 🔭 I’m currently on `ABC` as Sr.Software Engineer, `ABC` is a member of `Marubeni Corp`
+- 🌱 I’m currently Hands On JAVA (Springboot) and GO Programming Languages 🤣
 - 👯 I’m looking to collaborate with other Software Engineers
 - 🥅 MY Goals: to be a better Software Engineer
 - ⚡ Hobbies: Video Game like Call of duty and Battlefield
