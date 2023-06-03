@@ -27,10 +27,6 @@
 <br />
 <img src="https://streak-stats.demolab.com?    user=ivandi1980&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=fff&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
 </div>
-<div align="center">
-
-[![Ivandjoh's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ivandi1980&custom_title=ivandjoh's%20GitHub%20Activity%20Graph&bg_color=fff&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ivandi1980/github-readme-activity-graph)
-</div>
 
 [instagram]: https://instagram.com/ivandjoh
 [linkedin]: https://www.linkedin.com/in/ivandjoh
