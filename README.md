@@ -8,7 +8,7 @@
 <br>
 
 ## I'm Sr. Software Engineer & Loved to Learn new things!
-- 🌱 I’m currently Hands On `Java (Springboot)` and `Go` Programming Languages 🤣
+- 🌱 I’m currently Hands On `Java (Springboot)`, `Go` Programming Languages and `Typescript` 🤣
 - 👯 I’m looking to collaborate with other Software Engineers
 - 🥅 MY Goals: to be a better Software Engineer
 - ⚡ Hobbies: Video Game like Call of duty and Battlefield
