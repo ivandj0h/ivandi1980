@@ -8,7 +8,6 @@
 <br>
 
 ## I'm Sr. Software Engineer & Loved to Learn new things!
-- 🔭 I’m currently on `ABC` as `Sr. Software Engineer`, `The ABC` is a member of `Marubeni Corp`
 - 🌱 I’m currently Hands On `Java (Springboot)` and `Go` Programming Languages 🤣
 - 👯 I’m looking to collaborate with other Software Engineers
 - 🥅 MY Goals: to be a better Software Engineer
